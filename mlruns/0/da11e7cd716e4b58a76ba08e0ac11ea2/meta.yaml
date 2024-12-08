@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Pycharm%20files/mlflow-test/mlruns/0/da11e7cd716e4b58a76ba08e0ac11ea2/artifacts
+end_time: 1733573345579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da11e7cd716e4b58a76ba08e0ac11ea2
+run_name: worried-cow-697
+run_uuid: da11e7cd716e4b58a76ba08e0ac11ea2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733573340562
+status: 3
+tags: []
+user_id: koush

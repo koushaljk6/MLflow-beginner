@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Pycharm%20files/mlflow-test/mlruns/0/077c4500d9a440b09c80f8df60bade2a/artifacts
+end_time: 1733573233001
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 077c4500d9a440b09c80f8df60bade2a
+run_name: judicious-cod-678
+run_uuid: 077c4500d9a440b09c80f8df60bade2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733573228417
+status: 3
+tags: []
+user_id: koush

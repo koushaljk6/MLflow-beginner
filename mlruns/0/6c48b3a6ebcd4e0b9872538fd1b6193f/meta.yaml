@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Pycharm%20files/mlflow-test/mlruns/0/6c48b3a6ebcd4e0b9872538fd1b6193f/artifacts
+end_time: 1733573535481
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6c48b3a6ebcd4e0b9872538fd1b6193f
+run_name: nosy-mule-75
+run_uuid: 6c48b3a6ebcd4e0b9872538fd1b6193f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733573530235
+status: 3
+tags: []
+user_id: koush

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Pycharm%20files/mlflow-test/mlruns/0/dad63acd6f284c938bd24ccdd86876bf/artifacts
+end_time: 1733573288951
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dad63acd6f284c938bd24ccdd86876bf
+run_name: puzzled-bear-317
+run_uuid: dad63acd6f284c938bd24ccdd86876bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733573284316
+status: 3
+tags: []
+user_id: koush

@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Pycharm%20files/mlflow-test/mlruns/0/0b864721744e47b0bc1e8c7e81d71c5a/artifacts
+end_time: 1733572379925
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0b864721744e47b0bc1e8c7e81d71c5a
+run_name: zealous-yak-846
+run_uuid: 0b864721744e47b0bc1e8c7e81d71c5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733572374800
+status: 3
+tags: []
+user_id: koush

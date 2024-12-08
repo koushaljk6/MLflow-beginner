@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Pycharm%20files/mlflow-test/mlruns/0/20ae926ed1fb4b689ae9aa525a4743f5/artifacts
+end_time: 1733571367096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 20ae926ed1fb4b689ae9aa525a4743f5
+run_name: industrious-crow-846
+run_uuid: 20ae926ed1fb4b689ae9aa525a4743f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733571362607
+status: 3
+tags: []
+user_id: koush

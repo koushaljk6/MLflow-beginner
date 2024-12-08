@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Pycharm%20files/mlflow-test/mlruns/0/67164eb097f849afb51919a7b70bbb65/artifacts
+end_time: 1733573305657
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 67164eb097f849afb51919a7b70bbb65
+run_name: kindly-crab-800
+run_uuid: 67164eb097f849afb51919a7b70bbb65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733573301376
+status: 3
+tags: []
+user_id: koush
